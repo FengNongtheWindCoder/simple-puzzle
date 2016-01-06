@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 14b0c690395b87240b04002f7c264fb0
+timeCreated: 1451140205
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: original1_0
+    21300002: original1_1
+    21300004: original1_2
+    21300006: original1_3
+    21300008: original1_4
+    21300010: original1_5
+    21300012: original1_6
+    21300014: original1_7
+    21300016: original1_8
+    21300018: original1_9
+    21300020: original1_10
+    21300022: original1_11
+    21300024: original1_12
+    21300026: original1_13
+    21300028: original1_14
+    21300030: original1_15
+    21300032: piecesoriginal_0
+    21300034: piecesoriginal_1
+    21300036: piecesoriginal_2
+    21300038: piecesoriginal_3
+    21300040: piecesoriginal_4
+    21300042: piecesoriginal_5
+    21300044: piecesoriginal_6
+    21300046: piecesoriginal_7
+    21300048: piecesoriginal_8
+    21300050: piecesoriginal_9
+    21300052: piecesoriginal_10
+    21300054: piecesoriginal_11
+    21300056: piecesoriginal_12
+    21300058: piecesoriginal_13
+    21300060: piecesoriginal_14
+    21300062: piecesoriginal_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 161
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: piecesoriginal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 161
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 322
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    - name: piecesoriginal_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 483
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 80.5}
+        - {x: -80.5, y: -80.5}
+        - {x: 80.5, y: -80.5}
+        - {x: 80.5, y: 80.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
